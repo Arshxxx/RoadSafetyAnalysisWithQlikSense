@@ -23,4 +23,4 @@ Data Analysis & Visualization: Qlik Sense
 
 ##### PROJECT DOCUMENTATION LINK - https://drive.google.com/file/d/1Z04bddYZGAaiFdh0ejJwCDna-ZsF1OFD/view?usp=sharing
 
-##### VISUALISATIONS PDF LINK - https://drive.google.com/file/d/1Z04bddYZGAaiFdh0ejJwCDna-ZsF1OFD/view?usp=sharing
+##### VISUALISATIONS PDF LINK - https://drive.google.com/file/d/1nhZlB_ZIL-DMJ-A1aM5qqGZ-HZ_aTfmR/view?usp=sharing
